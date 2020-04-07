@@ -14,6 +14,4 @@ optional arguments:
   -h, --help            show this help message and exit
   -start START_DATE, --s START_DATE
   -end END_DATE, --e END_DATE
-(base) roman@RomarioBrik:~/Desk
-
 ```
